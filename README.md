@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c743b56f-b12e-4843-bf03-31e0cc4c22a9)# Gif Studio 🎨🎥  
+# Gif Studio 🎨🎥  
 
 **Gif Studio** is an interactive React.js web application that lets you generate and explore GIFs effortlessly. Whether you're in the mood for random surprises or want something specific, Gif Studio has you covered!  
 
@@ -10,10 +10,6 @@
 - **Search GIFs**: Input a keyword to find the perfect GIF for any mood or moment.  
 - **Fast & Interactive**: Built with React.js for a seamless and responsive user experience.  
 
----
-
-## Demo 🚀  
-[Live Demo](#) *(Replace `#` with your live demo link if available)*  
 
 ---
 
